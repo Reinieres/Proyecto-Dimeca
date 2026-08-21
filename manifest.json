@@ -7,9 +7,9 @@
   "theme_color": "#a3a3a3",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/Reinieres/Proyecto-Dimeca/main/Camaron.jpg",
+      "src": "https://raw.githubusercontent.com/Reinieres/Proyecto-Dimeca/main/Camaron png.png",
       "sizes": "512x512",
-      "type": "image/jpeg"
+      "type": "png"
     }
   ]
 }
