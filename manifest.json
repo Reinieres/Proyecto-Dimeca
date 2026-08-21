@@ -9,7 +9,7 @@
     {
       "src": "https://raw.githubusercontent.com/Reinieres/Proyecto-Dimeca/main/camaron png.png",
       "sizes": "512x512",
-      "type": "png"
+      "type": "image/png"
     }
   ]
 }
